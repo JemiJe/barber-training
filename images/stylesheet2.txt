@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-facebook-letter-logo-b {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -10px;
+}
+
+.sprite-facebook-letter-logo-w {
+    width: 32px;
+    height: 32px;
+    background-position: -62px -10px;
+}
+
+.sprite-instagram-social-outlined-logo-b {
+    width: 32px;
+    height: 32px;
+    background-position: -114px -10px;
+}
+
+.sprite-instagram-social-outlined-logo-w {
+    width: 32px;
+    height: 32px;
+    background-position: -166px -10px;
+}
+
+.sprite-sign-in {
+    width: 32px;
+    height: 32px;
+    background-position: -218px -10px;
+}
+
+.sprite-vkontakte-logo-b {
+    width: 32px;
+    height: 32px;
+    background-position: -270px -10px;
+}
+
+.sprite-vkontakte-logo-w {
+    width: 32px;
+    height: 32px;
+    background-position: -322px -10px;
+}
